@@ -1,8 +1,0 @@
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
-# Title
-name: Asha Empire Online
-
-baseurl: './github/profile/'
