@@ -5,4 +5,4 @@ permalink: pretty
 # Title
 name: Asha Empire Online
 
-baseurl: '/.github/profile'
+baseurl: './github/profile/'
